@@ -12,4 +12,5 @@ const getFiltered = async (catMeal) => {
     const response = await fetch(API_URL + `filter.php?c=` + catMeal);
     return await response.json();
 }
+
 export {getMealById, getAllCategory, getFiltered}

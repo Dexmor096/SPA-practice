@@ -30,3 +30,11 @@ nav {
 .card-content {
   flex-grow: 1;
 }
+.recipe {
+  display: grid;
+  grid-template-rows: 1fr auto;
+}
+.recipe-image{
+  height: auto;
+  max-width: 100%;
+}
