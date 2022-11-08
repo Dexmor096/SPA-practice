@@ -38,3 +38,10 @@ nav {
   height: auto;
   max-width: 100%;
 }
+.search:focus {
+  border-bottom: 1px solid #9e9e9e;
+  outline: 0;
+}
+.input-field:focus {
+  border-bottom: 1px solid #9e9e9e;
+}

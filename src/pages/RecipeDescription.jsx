@@ -38,10 +38,12 @@ function RecipeDescription(props) {
                     }
                     </tbody>
                 </table>
+                { strYoutube &&
                 <iframe width="100%" height="360px" src={"https://www.youtube.com/embed/"+ strYoutube.slice(-11)}
                         title={strMeal} frameBorder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowFullScreen/>
+                }
             </div>
         </div>
     </>
