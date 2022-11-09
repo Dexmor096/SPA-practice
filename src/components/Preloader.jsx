@@ -2,8 +2,8 @@ import React from 'react'
 
 function Preloader() {
     return (
-    <div className="progress">
-        <div className="indeterminate"></div>
+    <div className="progress brown lighten-4">
+        <div className="indeterminate brown lighten-2"></div>
     </div>
     )
 }
