@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SPA-practice/static/css/main.5a0de615.css",
-    "main.js": "/SPA-practice/static/js/main.113121f6.js",
+    "main.css": "/SPA-practice/static/css/main.71468bbb.css",
+    "main.js": "/SPA-practice/static/js/main.d01bc3fb.js",
     "index.html": "/SPA-practice/index.html",
-    "main.5a0de615.css.map": "/SPA-practice/static/css/main.5a0de615.css.map",
-    "main.113121f6.js.map": "/SPA-practice/static/js/main.113121f6.js.map"
+    "main.71468bbb.css.map": "/SPA-practice/static/css/main.71468bbb.css.map",
+    "main.d01bc3fb.js.map": "/SPA-practice/static/js/main.d01bc3fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a0de615.css",
-    "static/js/main.113121f6.js"
+    "static/css/main.71468bbb.css",
+    "static/js/main.d01bc3fb.js"
   ]
 }
